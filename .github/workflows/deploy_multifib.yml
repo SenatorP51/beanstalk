@@ -66,5 +66,5 @@ jobs:
         application_name: multifib
         environment_name: Multifib-env
         version_label: test0
-        region: us-east-1
+        region: us-east-2
         deployment_package: deploy.zip
